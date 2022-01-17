@@ -1,3 +1,4 @@
+
 # The Obvious
 Chrome is bad, please stop using Chrome and Chromium based browsers like Ecosia and Microsoft Edge! 
 Chromium browsers track what websites you visit and your activity there, and sell this data to tracking & advertising companies so that they can show you more ads.
@@ -34,7 +35,6 @@ a small collection but i'm sure it'll grow soon
 | [MailBait](https://mailbait.info/) | Do you know the contact email for a hate group? Sign them up for tons of spam by leaving a tab open |
 | [Wheatpasting](https://itsgoingdown.org/how-to-wheatpaste/) | How to put up posters that will stay up |
 | [Seed Bombs](https://www.instructables.com/How-to-Make-a-Seed-Bomb/) | Good for guerrila gardening |
-| [Moss Paint](https://www.instructables.com/How-to-Make-Moss-Graffiti-1/) | for graffiti that's all natural and good for the environment |
 
 # Stop relying on big companies
 The following tools are mostly free, all open source, although some may offer premium models.
@@ -52,20 +52,22 @@ The following tools are mostly free, all open source, although some may offer pr
 | [Telegram](https://t.me/) | messaging |
 
 # How online pirates do their thing
-torrenting tools + piracy sites
 ### Use a VPN
-There is no such thing as a good free VPN. They either keep logs or they are easily trackable. What's important to check is pricing, if they keep logs, and if it has a killswitch. Below are some suggestions.
-| Site | Description |
-| --- | --- |
-| [AirVPN](AirVPN) | description |
+There is no such thing as a good free VPN. They either keep logs or they are easily trackable. What's important to check is pricing, if they keep logs, and if it has a killswitch. [Here is a table comparing various VPN services.](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/)
 ### Check for Viruses
+Video, text and audio are usually 
 | Site | Description |
 | --- | --- |
 | [VirusTotal](virustotal.com/) | In-browser link checker |
+| [x](y) | description |
+| [x](y) | description |
+| [x](y) | description |
 ### General Torrenting
 | Site | Description |
 | --- | --- |
-| [x](y) | z |
+| [ThePirateBay](https://proxybay.github.io/) | description |
+| [1337x](https://1337x.to/) | description |
+| [x](y) | description |
 ### Books
 | Site | Description |
 | --- | --- |
@@ -76,20 +78,29 @@ There is no such thing as a good free VPN. They either keep logs or they are eas
 ### TV & Movies
 | Site | Description |
 | --- | --- |
-| [x](y) | z |
+| [x](y) | description |
+| [x](y) | description |
 ### Music 
 | Site | Description |
 | --- | --- |
-| [x](y) | z |
+| [x](y) | description |
+| [x](y) | description |
 ### Games
 | Site | Description |
 | --- | --- |
-| [x](y) | z |
+| [FitGirl Repacks](https://fitgirl-repacks.site/) | description |
+| [x](y) | description |
 ### Anime
 | Site | Description |
 | --- | --- |
-| [x](y) | z |
+| [x](y) | description |
+| [x](y) | description |
+| [x](y) | description |
 
 # So you want to disappear
-[TAILS](https://tails.boum.org/) + [Tor](https://www.torproject.org/) are endorsed and used by [NSA whistleblower Edward Snowden](https://www.wired.com/2014/04/tails/)
-
+[TAILS]() + [Tor]() are endorsed and used by [NSA whistleblower Edward Snowden](https://www.wired.com/2014/04/tails/)
+| Tool | Description |
+| --- | --- |
+| [TAILS OS](https://tails.boum.org/) | description |
+| [Tor Browser](https://www.torproject.org/) | description |
+| [x](y) | description |
