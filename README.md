@@ -52,7 +52,13 @@ The following tools are mostly free, all open source, although some may offer pr
 | [Telegram](https://t.me/) | messaging |
 
 # How online pirates do their thing
-torrenting tools + piracy sites coming soon
+torrenting tools + piracy sites
+| Site | Stuff you can get there |
+| --- | --- |
+| [Z-Lib](https://z-lib.org/) | (formerly BookFinder) Books, scholarly articles, and academic texts. |
+| [LibGen](https://libgen.rs/) | Scholarly journal articles, academic texts as well as general-interest books, images, comics, audiobooks, and magazines. |
+| [Sci-Hub](https://sci-hub.ee/) | Provides free research papers and books by bypassing publishers' paywalls in various ways. |
+| [Gutenberg Project](https://www.gutenberg.org/) | Completely legal volunteer effort to digitize and archive books which copyrights have expired. |
 
 # So you want to disappear
 [TAILS](https://tails.boum.org/) + [Tor](https://www.torproject.org/) are endorsed and used by [NSA whistleblower Edward Snowden](https://www.wired.com/2014/04/tails/)
