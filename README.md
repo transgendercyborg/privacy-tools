@@ -53,12 +53,42 @@ The following tools are mostly free, all open source, although some may offer pr
 
 # How online pirates do their thing
 torrenting tools + piracy sites
-| Site | Stuff you can get there |
+### Use a VPN
+There is no such thing as a good free VPN. They either keep logs or they are easily trackable. What's important to check is pricing, if they keep logs, and if it has a killswitch. Below are some suggestions.
+| Site | Description |
+| --- | --- |
+| [AirVPN](AirVPN) | description |
+### Check for Viruses
+| Site | Description |
+| --- | --- |
+| [VirusTotal](virustotal.com/) | In-browser link checker |
+### General Torrenting
+| Site | Description |
+| --- | --- |
+| [x](y) | z |
+### Books
+| Site | Description |
 | --- | --- |
 | [Z-Lib](https://z-lib.org/) | (formerly BookFinder) Books, scholarly articles, and academic texts. |
 | [LibGen](https://libgen.rs/) | Scholarly journal articles, academic texts as well as general-interest books, images, comics, audiobooks, and magazines. |
 | [Sci-Hub](https://sci-hub.ee/) | Provides free research papers and books by bypassing publishers' paywalls in various ways. |
 | [Gutenberg Project](https://www.gutenberg.org/) | Completely legal volunteer effort to digitize and archive books which copyrights have expired. |
+### TV & Movies
+| Site | Description |
+| --- | --- |
+| [x](y) | z |
+### Music 
+| Site | Description |
+| --- | --- |
+| [x](y) | z |
+### Games
+| Site | Description |
+| --- | --- |
+| [x](y) | z |
+### Anime
+| Site | Description |
+| --- | --- |
+| [x](y) | z |
 
 # So you want to disappear
 [TAILS](https://tails.boum.org/) + [Tor](https://www.torproject.org/) are endorsed and used by [NSA whistleblower Edward Snowden](https://www.wired.com/2014/04/tails/)
