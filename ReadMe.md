@@ -12,4 +12,4 @@ If you come across dead links here, please report them by [creating an issue](ht
 - [Stop Relying On Corporations.](https://github.com/transgendercyborg/privacy-tools/blob/main/AntiCorpo.md) Self-hosted tools that rely less on huge companies and The Cloud.
 - [How Online Pirates Do Their Thing.](https://github.com/transgendercyborg/privacy-tools/blob/main/YoHo.md) Purely educational resource. No, officer, we aren't condoning actual piracy, just teaching how it happens.
 - [So You Want To Disappear...](https://github.com/transgendercyborg/privacy-tools/blob/main/Disappear.md) If you're like me and you're going full crazy about this stuff.
-- [Extras.](https://github.com/transgendercyborg/privacy-tools/blob/main/PrivacyAddons.md) Additional tools to just improve your online experience.
+- [Extras.](https://github.com/transgendercyborg/privacy-tools/blob/main/Extras.md) Additional tools to just improve your online experience.
