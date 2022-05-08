@@ -4,6 +4,7 @@ The following tools are mostly free, all open source, although some may offer pr
 | --- | --- |
 | [Photopea](https://www.photopea.com/) | in-browser Photoshop clone |
 | [DuckDuckGo](https://duckduckgo.com/) | search engine |
+| [CryptPad](https://itsfoss.com/cryptpad/) | Google Docs alternative which has a paid plan or can be run for free via [Docker](https://www.docker.com/) |
 | [OpenStreetMap](https://www.openstreetmap.org/) | maps |
 | [Apertium](https://apertium.org/) | translate |
 | [DeepL](https://www.deepl.com/translator) | translate |
