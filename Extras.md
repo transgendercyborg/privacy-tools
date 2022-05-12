@@ -3,7 +3,7 @@
 | --- | --- |
 | [12ft.io](https://12ft.io/) | Hops over paywalls to news articles. |
 | [Bypass Paywall Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) | Legally dubious way of bypassing paywalls on news sites |
-| [Emoji](URhttps://addons.mozilla.org/en-US/firefox/addon/emoji-sav) | Emoji picker for Firefox. |
+| [Emoji](https://addons.mozilla.org/en-US/firefox/addon/emoji-sav) | Emoji picker for Firefox. |
 | [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) | Adds extra features to YouTube including keyboard shortcuts, loop mode, custom scripts, and more |
 | [Just The Recipe](https://www.justtherecipe.com/) | Removes ads, e-mail newsletters and tragic backstories from recipe pages. |
 | [Midnight Lizard](https://midnight-lizard.org/home) | Colour schemes across all sites. |
